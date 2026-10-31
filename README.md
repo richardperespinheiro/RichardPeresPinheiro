@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Richard Peres - Welcome to my GitHub" />
+<img src="./banner.png" width="100%" alt="Richard Peres - GitHub Banner" />
 
 <br/>
 
@@ -10,7 +10,6 @@
 **Desenvolvimento de Software | Software Development**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/richardperespinheiro)
-[![Profile](https://img.shields.io/badge/Profile-303030?style=flat-square&logo=github&logoColor=white)](https://github.com/richardperespinheiro)
 
 </div>
 
@@ -74,25 +73,43 @@ I'm currently improving my knowledge and exploring new technologies, always look
 
 <div align="center">
 
-![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frichardperespinheiro&query=%24.public_repos&label=Reposit%C3%B3rios%20p%C3%BAblicos&color=303030&style=for-the-badge&logo=github)
+<img width="49%" src="https://ghstats.dev/api/card?username=richardperespinheiro&bg=0D0D0D&text=E0E0E0&title_color=FFFFFF&icon_color=BDBDBD&border_color=404040" />
 
-![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frichardperespinheiro&query=%24.followers&label=Seguidores&color=303030&style=for-the-badge&logo=github)
+<br/>
+
+<img width="49%" src="https://ghstats.dev/api/langs?username=richardperespinheiro&layout=donut&max_langs=6&bg=0D0D0D&text=E0E0E0&title_color=FFFFFF&border_color=404040" />
 
 </div>
 
 ---
 
-## 📈 Atividade | Activity
+## 🔥 Sequência de contribuições | Contribution streak
 
 <div align="center">
 
-Acompanhe minhas contribuições e evolução nos projetos.
+![Contribution streak](https://ghstats.dev/api/mini?username=richardperespinheiro&metric=streak&label=Current%20streak&color=808080&style=for-the-badge)
 
-Follow my contributions and progress across projects.
+![Total contributions](https://ghstats.dev/api/mini?username=richardperespinheiro&metric=contributions&label=Contributions&color=606060&style=for-the-badge)
 
-<br/>
+</div>
 
-[![GitHub Contributions](https://img.shields.io/badge/Ver%20contribui%C3%A7%C3%B5es-303030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardperespinheiro?tab=overview)
+---
+
+## 📈 Atividade recente | Recent activity
+
+<div align="center">
+
+<img width="100%" src="https://ghstats.dev/api/sparkline?username=richardperespinheiro&days=90&width=800&height=180&line_color=E0E0E0&fill_color=505050&hide_border=true&title=GitHub%20Activity%20-%2090%20Days" />
+
+</div>
+
+---
+
+## 🗓️ Contribuições | Contributions
+
+<div align="center">
+
+[![GitHub Contributions](https://ghstats.dev/api/profile?username=richardperespinheiro&type=contributions&theme=dark)](https://github.com/richardperespinheiro)
 
 </div>
 
@@ -106,7 +123,9 @@ Follow my contributions and progress across projects.
 
 <br/>
 
-[GitHub](https://github.com/richardperespinheiro)
+[![GitHub](https://img.shields.io/badge/Meu_GitHub-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardperespinheiro)
+
+<br/>
 
 <sub>Richard Peres © 2026</sub>
 
