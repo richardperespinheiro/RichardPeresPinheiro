@@ -73,11 +73,11 @@ I'm currently improving my knowledge and exploring new technologies, always look
 
 <div align="center">
 
-<img width="49%" src="https://ghstats.dev/api/card?username=richardperespinheiro&bg=0D0D0D&text=E0E0E0&title_color=FFFFFF&icon_color=BDBDBD&border_color=404040" />
+<img width="70%" src="https://ghstats.dev/api/card?username=richardperespinheiro&bg=0D0D0D&text=E0E0E0&title_color=FFFFFF&icon_color=BDBDBD&border_color=404040" />
 
 <br/>
 
-<img width="49%" src="https://ghstats.dev/api/langs?username=richardperespinheiro&layout=donut&max_langs=6&bg=0D0D0D&text=E0E0E0&title_color=FFFFFF&border_color=404040" />
+<img width="70%" src="https://ghstats.dev/api/langs?username=richardperespinheiro&layout=donut&max_langs=6&bg=0D0D0D&text=E0E0E0&title_color=FFFFFF&border_color=404040" />
 
 </div>
 
