@@ -1,42 +1,70 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=180&section=header&text=Richard%20Peres&fontSize=42&fontColor=ffffff&desc=Desenvolvimento%20%7C%20Development&descAlignY=70&animation=fadeIn" />
+<img src="./banner.png" width="100%" alt="Richard Peres - Welcome to my GitHub" />
 
 <br/>
 
-### Olá! Seja bem-vindo ao meu perfil 👋
-### Hello! Welcome to my profile 👋
+# Richard Peres
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/richardperespinheiro)
+**Desenvolvimento de Software | Software Development**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/richardperespinheiro)
+[![Profile](https://img.shields.io/badge/Profile-303030?style=flat-square&logo=github&logoColor=white)](https://github.com/richardperespinheiro)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim | About me
+## 👨🏻‍💻 Sobre mim | About me
 
-**PT-BR 🇧🇷**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇧🇷 Português
 
 Olá! Sou Richard Peres, estudante de programação e tecnologia.
 
-Tenho interesse em desenvolvimento de software, lógica de programação e criação de projetos. Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar conhecimento em prática.
+Tenho interesse em desenvolvimento de software, lógica de programação e criação de projetos.
 
-**EN-US 🇺🇸**
+Atualmente, estou aprimorando meus conhecimentos e explorando novas tecnologias, sempre buscando evoluir minhas habilidades.
+
+</td>
+<td width="50%" valign="top">
+
+### 🇺🇸 English
 
 Hello! I'm Richard Peres, a programming and technology student.
 
-I'm interested in software development, programming logic, and building projects. I'm always looking to learn new technologies, improve my skills, and turn knowledge into practice.
+I'm interested in software development, programming logic, and building projects.
+
+I'm currently improving my knowledge and exploring new technologies, always looking to develop my skills.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias | Technologies
-
-**Atualmente estudando e explorando | Currently learning and exploring**
+## ⚙️ Tecnologias | Technologies
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,git,github,linux&theme=dark)](https://skillicons.dev)
+**Linguagens e ferramentas | Languages and tools**
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-303030?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-303030?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-303030?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-303030?style=for-the-badge&logo=databricks&logoColor=white)
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-303030?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -46,23 +74,25 @@ I'm interested in software development, programming logic, and building projects
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=richardperespinheiro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&locale=pt-br" />
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frichardperespinheiro&query=%24.public_repos&label=Reposit%C3%B3rios%20p%C3%BAblicos&color=303030&style=for-the-badge&logo=github)
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardperespinheiro&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frichardperespinheiro&query=%24.followers&label=Seguidores&color=303030&style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+## 📈 Atividade | Activity
+
+<div align="center">
+
+Acompanhe minhas contribuições e evolução nos projetos.
+
+Follow my contributions and progress across projects.
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=richardperespinheiro&theme=transparent&hide_border=true&locale=pt_BR" />
-
-</div>
-
----
-
-## 📈 Gráfico de contribuições | Contribution graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=richardperespinheiro&theme=github-compact&hide_border=true&area=true" />
+[![GitHub Contributions](https://img.shields.io/badge/Ver%20contribui%C3%A7%C3%B5es-303030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richardperespinheiro?tab=overview)
 
 </div>
 
@@ -70,9 +100,14 @@ I'm interested in software development, programming logic, and building projects
 
 <div align="center">
 
-### 🚀 Sempre aprendendo. Sempre evoluindo.
-### 🚀 Always learning. Always improving.
+### "Sempre aprendendo. Sempre evoluindo."
 
-**Richard Peres | [GitHub](https://github.com/richardperespinheiro)**
+*Always learning. Always improving.*
+
+<br/>
+
+[GitHub](https://github.com/richardperespinheiro)
+
+<sub>Richard Peres © 2026</sub>
 
 </div>
