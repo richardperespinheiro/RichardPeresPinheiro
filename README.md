@@ -54,16 +54,16 @@ I'm currently improving my knowledge and exploring new technologies, always look
 
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-303030?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-303030?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-303030?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-303030?style=for-the-badge&logo=databricks&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="45">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" height="45">
 
 <br/>
 
-![Git](https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-303030?style=for-the-badge&logo=linux&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="45">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="45">
 
 </div>
 
