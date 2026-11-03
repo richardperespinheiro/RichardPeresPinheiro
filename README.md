@@ -87,9 +87,7 @@ I'm currently improving my knowledge and exploring new technologies, always look
 
 <div align="center">
 
-![Contribution streak](https://ghstats.dev/api/mini?username=richardperespinheiro&metric=streak&label=Current%20streak&color=808080&style=for-the-badge)
-
-![Total contributions](https://ghstats.dev/api/mini?username=richardperespinheiro&metric=contributions&label=Contributions&color=606060&style=for-the-badge)
+<img width="70%" src="https://streak-stats.demolab.com/?user=richardperespinheiro&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=808080">
 
 </div>
 
